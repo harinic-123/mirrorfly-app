@@ -2,7 +2,7 @@
     "key": "my-app",
     "name": "My app",
     "description": "My very first app",
-    "baseUrl": "{{localBaseUrl}}",
+    "baseUrl": "https://webchat-preprod-sandbox.mirrorfly.com",
     "authentication": {
         "type": "jwt"
     },
