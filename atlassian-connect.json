@@ -8,13 +8,13 @@
       "url": "https://webchat-preprod-sandbox.mirrorfly.com"
     },
     "links": {
-      "self": "http://webchat-preprod-sandbox.mirrorfly.com/connect/jira/atlassian-connect.json"
+      "self": "https://webchat-preprod-sandbox.mirrorfly.com/connect/jira/atlassian-connect.json"
     },
     "lifecycle": {
       "installed": "/installed",
       "uninstalled": "/uninstalled"
     },
-    "baseUrl": "http://webchat-preprod-sandbox.mirrorfly.com/connect/jira",
+    "baseUrl": "https://webchat-preprod-sandbox.mirrorfly.com/connect/jira",
     "authentication": {
       "type": "jwt"
     },
