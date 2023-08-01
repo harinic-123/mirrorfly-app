@@ -5,7 +5,7 @@
     "description": "A connect app that does something",
     "vendor": {
       "name": "My Company",
-      "url": "https://webchat-preprod-sandbox.mirrorfly.com"
+      "url": "https://webchat-preprod-sandbox.mirrorfly.com/"
     },
     "links": {
       "self": "https://webchat-preprod-sandbox.mirrorfly.com/connect/jira/atlassian-connect.json"
@@ -14,7 +14,7 @@
       "installed": "/installed",
       "uninstalled": "/uninstalled"
     },
-    "baseUrl": "https://webchat-preprod-sandbox.mirrorfly.com/connect/jira",
+    "baseUrl": "https://webchat-preprod-sandbox.mirrorfly.com/",
     "authentication": {
       "type": "jwt"
     },
